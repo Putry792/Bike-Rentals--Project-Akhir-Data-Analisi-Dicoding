@@ -10,4 +10,4 @@
 ![image](img/foto4.png)
 
 ## Link streamlit app
-`https://bike-rentals-projec-akhir-dicoding.streamlit.app/`
+(https://bike-rentals-projec-akhir-dicoding.streamlit.app/)
