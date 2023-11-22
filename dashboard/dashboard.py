@@ -83,7 +83,7 @@ max_date = pd.to_datetime(days_df['dateday']).dt.date.max()
 # membuat sidebar
 with st.sidebar:
     # menambahkan nama perusahaan
-    st.header('Putry Bike Rental')
+    st.image('img/bicycle rent.png')
     
     # mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
