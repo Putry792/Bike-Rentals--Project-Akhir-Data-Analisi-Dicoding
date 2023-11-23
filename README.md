@@ -4,9 +4,9 @@
 `streamlit run dashboard.py`
 
 ## Setup envioenment
-`conda create --name main-ds python=3.9`
-`conda activate main-ds`
-`pip install pandas matplotlib seaborn jupyter streamlit`
+`conda create --name main-ds python=3.9`<br>
+`conda activate main-ds`<br>
+`pip install pandas matplotlib seaborn jupyter streamlit`<br>
 
 ## Screenshot
 ![image](img/foto1.png)
